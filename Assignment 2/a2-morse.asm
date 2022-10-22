@@ -8,7 +8,6 @@ main:
 # STUDENTS MAY MODIFY CODE BELOW
 # vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 	# Name: Alireza Tahmasebi
-	# Student Number: V00918121
 	## Test code that calls procedure for part A
 	# jal save_our_souls
 
