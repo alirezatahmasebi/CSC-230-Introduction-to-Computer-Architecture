@@ -2,8 +2,6 @@
 # Assignment #1, part C
 
 # Student name: Alireza Tahmasebi
-# Student number: V00918121
-
 
 # Compute M % N, where M must be in $8, N must be in $9,
 # and M % N must be in $15.
