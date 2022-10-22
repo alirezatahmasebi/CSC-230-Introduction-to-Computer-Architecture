@@ -2,8 +2,6 @@
 # Assignment #1, part B
 
 # Student name: Alireza Tahmasebi
-# Student number: V00918121
-
 
 # Compute the reverse of the input bit sequence that must be stored
 # in register $8, and the reverse must be in register $15.
