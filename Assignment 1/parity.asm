@@ -2,8 +2,6 @@
 # Assignment #1, part A
 
 # Student name: Alireza Tahmasebi
-# Student number: V00918121
-
 
 # Compute even parity of word that must be in register $8
 # Value of even parity (0 or 1) must be in register $15
