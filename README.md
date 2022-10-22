@@ -7,6 +7,7 @@ To answer the "what" question, the course presents the fundamental principles of
 * pipelining;
 * system integration;
 * and peripherals.
+
 The course also provides an introduction to issues of system performance evaluation and the relationship of architecture to system software.
 Regarding the "how" question, the course provides an introduction to assembly language programming.
 This leads to a direct and practical understanding of the inner working stages of a processor in relation to the rest of the system.
